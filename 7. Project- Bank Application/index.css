@@ -1,0 +1,47 @@
+body{
+    background-color: burlywood;
+    margin: 20px;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+
+label{
+    margin-top: 10px;
+}
+
+input{
+    margin-top: 10px;
+}
+
+select{
+    margin-top: 10px;
+}
+
+div{
+    border-left: 8px orange solid;
+    padding-left: 20px;
+    border-radius: 8px;
+}
+
+.header{
+    background-color: orange;
+    margin: 10px;
+    border: 2px white solid;
+    border-radius: 3px;
+}
+
+.red{
+    color: red;
+}
+
+.center{
+    display: block;
+    text-align: center;
+}
+
+.right{
+    text-align: right;
+}
